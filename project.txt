@@ -1,4 +1,4 @@
-1) LottoRandom App
+1) Lucky Lotto App
 2) QR Code Scanner Scheduling App
 3) MNL Flood App
 4) uWork Prototype
